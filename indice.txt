@@ -3,3 +3,7 @@ Lib1: Clean Code: A Book og Agile Software Craftmanship (Robert C. Martin)
 Lib2: CODE: The Hidden Language of Computer Hardware and Software (Charles Petzold)
 
 Lib3: Linux Bible (Christopher Negus)
+
+Lib4: A Byte of Python (Swaroop C.H.)
+
+Lib5: Python Cookbook: Recipes for Mastering Python 3 (David M. Beazley)
