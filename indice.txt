@@ -7,3 +7,5 @@ Lib3: Linux Bible (Christopher Negus)
 Lib4: A Byte of Python (Swaroop C.H.)
 
 Lib5: Python Cookbook: Recipes for Mastering Python 3 (David M. Beazley)
+
+Lib6: Pro Git (Scott Chacon, Ben Straub)

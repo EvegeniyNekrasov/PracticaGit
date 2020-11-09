@@ -1,0 +1,1 @@
+"Redundant comments are just places to collect lies and misinformation" - Robert C. Martin
